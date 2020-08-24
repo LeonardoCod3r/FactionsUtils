@@ -1,0 +1,6 @@
+name: FactionsUtils
+author: <Leonardo/>
+version: 1.0.0
+main: centralworks.factionsutils.Main
+depend: [Vault, Factions]
+softdepend: [HolographicDisplays, Citizens]

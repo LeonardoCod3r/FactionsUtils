@@ -1,0 +1,25 @@
+MySQL:
+  Password: "123"
+  User: "root"
+  Host: "localhost"
+  Port: "3306"
+  Database: "twmobcoins"
+Spawners:
+  ZOMBIE:
+    value: 100000.0
+    head: ZOMBIE
+  BLAZE:
+    value: 750000.0
+    head: MHF_Blaze
+Settings:
+  valueToShowCoords: 100000.0
+  format:
+    - ",1.0"
+    - "K,1000.0"
+    - "M,1000000.0"
+    - "B,1000000000.0"
+    - "T,1000000000000.0"
+    - "QA,1000000000000.0"
+    - "QI,1000000000000000.0"
+    - "SEX,1000000000000000000.0"
+    - "SEP,1000000000000000000000.0"
